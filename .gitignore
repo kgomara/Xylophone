@@ -54,7 +54,7 @@ Backup[ ]of[ ]*.numbers/
 # /bin
 /obj
 /TestResults
-
+/Index
 # build directories
 ###################
 **/build/*
